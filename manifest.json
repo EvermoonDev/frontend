@@ -1,0 +1,25 @@
+{
+  "short_name": "Evermoon",
+  "name": "A combination of SafeMoon and EverRise. Liquidity won't dry out thanks to the liquidity tax. The perfect protocol to punish sellers and reward holders. Everytime a sell happens, the EverMoon contract will buyback and burn some tokens.",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
