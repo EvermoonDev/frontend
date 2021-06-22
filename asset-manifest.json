@@ -1,24 +1,26 @@
 {
   "files": {
     "main.css": "/static/css/main.def877c0.chunk.css",
-    "main.js": "/static/js/main.fd7c9e74.chunk.js",
-    "main.js.map": "/static/js/main.fd7c9e74.chunk.js.map",
+    "main.js": "/static/js/main.c48957c9.chunk.js",
+    "main.js.map": "/static/js/main.c48957c9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8d14773d.js",
     "runtime-main.js.map": "/static/js/runtime-main.8d14773d.js.map",
     "static/css/2.792fcacf.chunk.css": "/static/css/2.792fcacf.chunk.css",
-    "static/js/2.bad6402a.chunk.js": "/static/js/2.bad6402a.chunk.js",
-    "static/js/2.bad6402a.chunk.js.map": "/static/js/2.bad6402a.chunk.js.map",
+    "static/js/2.0d876453.chunk.js": "/static/js/2.0d876453.chunk.js",
+    "static/js/2.0d876453.chunk.js.map": "/static/js/2.0d876453.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.792fcacf.chunk.css.map": "/static/css/2.792fcacf.chunk.css.map",
     "static/css/main.def877c0.chunk.css.map": "/static/css/main.def877c0.chunk.css.map",
-    "static/js/2.bad6402a.chunk.js.LICENSE.txt": "/static/js/2.bad6402a.chunk.js.LICENSE.txt",
+    "static/js/2.0d876453.chunk.js.LICENSE.txt": "/static/js/2.0d876453.chunk.js.LICENSE.txt",
     "static/media/arrow-left-3-icon.d48c6bae.svg": "/static/media/arrow-left-3-icon.d48c6bae.svg",
     "static/media/arrow-right-3-icon.d415f77e.svg": "/static/media/arrow-right-3-icon.d415f77e.svg",
     "static/media/arrow-right-icon.c4ea6a92.svg": "/static/media/arrow-right-icon.c4ea6a92.svg",
     "static/media/briefcase.svg": "/static/media/briefcase.21248a06.svg",
     "static/media/buy.5cb49ebd.svg": "/static/media/buy.5cb49ebd.svg",
+    "static/media/check.svg": "/static/media/check.a6151888.svg",
     "static/media/chevron-down.svg": "/static/media/chevron-down.c3e123cf.svg",
     "static/media/customize-icon.367468c9.svg": "/static/media/customize-icon.367468c9.svg",
+    "static/media/dao.06f4542b.png": "/static/media/dao.06f4542b.png",
     "static/media/dollar-sign.svg": "/static/media/dollar-sign.8d9a6f93.svg",
     "static/media/dot-pattern.ee6f4f0e.svg": "/static/media/dot-pattern.ee6f4f0e.svg",
     "static/media/drop.c547e366.svg": "/static/media/drop.c547e366.svg",
@@ -34,7 +36,6 @@
     "static/media/moon.2ba4c185.png": "/static/media/moon.2ba4c185.png",
     "static/media/moonspin2.278ee23c.gif": "/static/media/moonspin2.278ee23c.gif",
     "static/media/promotion.e3cc9dad.svg": "/static/media/promotion.e3cc9dad.svg",
-    "static/media/prototype-illustration.21bc4b3f.svg": "/static/media/prototype-illustration.21bc4b3f.svg",
     "static/media/reliable-icon.1367510a.svg": "/static/media/reliable-icon.1367510a.svg",
     "static/media/secure.d6b6527a.svg": "/static/media/secure.d6b6527a.svg",
     "static/media/shield-icon.daefe14b.svg": "/static/media/shield-icon.daefe14b.svg",
@@ -56,8 +57,8 @@
   "entrypoints": [
     "static/js/runtime-main.8d14773d.js",
     "static/css/2.792fcacf.chunk.css",
-    "static/js/2.bad6402a.chunk.js",
+    "static/js/2.0d876453.chunk.js",
     "static/css/main.def877c0.chunk.css",
-    "static/js/main.fd7c9e74.chunk.js"
+    "static/js/main.c48957c9.chunk.js"
   ]
 }
