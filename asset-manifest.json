@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.def877c0.chunk.css",
-    "main.js": "/static/js/main.c48957c9.chunk.js",
-    "main.js.map": "/static/js/main.c48957c9.chunk.js.map",
+    "main.js": "/static/js/main.2d7cd5c8.chunk.js",
+    "main.js.map": "/static/js/main.2d7cd5c8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8d14773d.js",
     "runtime-main.js.map": "/static/js/runtime-main.8d14773d.js.map",
     "static/css/2.792fcacf.chunk.css": "/static/css/2.792fcacf.chunk.css",
-    "static/js/2.0d876453.chunk.js": "/static/js/2.0d876453.chunk.js",
-    "static/js/2.0d876453.chunk.js.map": "/static/js/2.0d876453.chunk.js.map",
+    "static/js/2.87c07560.chunk.js": "/static/js/2.87c07560.chunk.js",
+    "static/js/2.87c07560.chunk.js.map": "/static/js/2.87c07560.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.792fcacf.chunk.css.map": "/static/css/2.792fcacf.chunk.css.map",
     "static/css/main.def877c0.chunk.css.map": "/static/css/main.def877c0.chunk.css.map",
-    "static/js/2.0d876453.chunk.js.LICENSE.txt": "/static/js/2.0d876453.chunk.js.LICENSE.txt",
+    "static/js/2.87c07560.chunk.js.LICENSE.txt": "/static/js/2.87c07560.chunk.js.LICENSE.txt",
     "static/media/arrow-left-3-icon.d48c6bae.svg": "/static/media/arrow-left-3-icon.d48c6bae.svg",
     "static/media/arrow-right-3-icon.d415f77e.svg": "/static/media/arrow-right-3-icon.d415f77e.svg",
     "static/media/arrow-right-icon.c4ea6a92.svg": "/static/media/arrow-right-icon.c4ea6a92.svg",
@@ -50,6 +50,7 @@
     "static/media/svg-decorator-blob-9.8e136b6b.svg": "/static/media/svg-decorator-blob-9.8e136b6b.svg",
     "static/media/team-illustration-2.76aa0427.svg": "/static/media/team-illustration-2.76aa0427.svg",
     "static/media/telegram.c70336ec.svg": "/static/media/telegram.c70336ec.svg",
+    "static/media/trades.276835f1.png": "/static/media/trades.276835f1.png",
     "static/media/twitter-icon.828ecd04.svg": "/static/media/twitter-icon.828ecd04.svg",
     "static/media/x.svg": "/static/media/x.6c9a4ba7.svg",
     "static/media/youtube-icon.10cce4d9.svg": "/static/media/youtube-icon.10cce4d9.svg"
@@ -57,8 +58,8 @@
   "entrypoints": [
     "static/js/runtime-main.8d14773d.js",
     "static/css/2.792fcacf.chunk.css",
-    "static/js/2.0d876453.chunk.js",
+    "static/js/2.87c07560.chunk.js",
     "static/css/main.def877c0.chunk.css",
-    "static/js/main.c48957c9.chunk.js"
+    "static/js/main.2d7cd5c8.chunk.js"
   ]
 }
