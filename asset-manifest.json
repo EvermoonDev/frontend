@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.def877c0.chunk.css",
-    "main.js": "/static/js/main.2d7cd5c8.chunk.js",
-    "main.js.map": "/static/js/main.2d7cd5c8.chunk.js.map",
+    "main.js": "/static/js/main.092b12b9.chunk.js",
+    "main.js.map": "/static/js/main.092b12b9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8d14773d.js",
     "runtime-main.js.map": "/static/js/runtime-main.8d14773d.js.map",
     "static/css/2.792fcacf.chunk.css": "/static/css/2.792fcacf.chunk.css",
-    "static/js/2.87c07560.chunk.js": "/static/js/2.87c07560.chunk.js",
-    "static/js/2.87c07560.chunk.js.map": "/static/js/2.87c07560.chunk.js.map",
+    "static/js/2.196cd9e2.chunk.js": "/static/js/2.196cd9e2.chunk.js",
+    "static/js/2.196cd9e2.chunk.js.map": "/static/js/2.196cd9e2.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.792fcacf.chunk.css.map": "/static/css/2.792fcacf.chunk.css.map",
     "static/css/main.def877c0.chunk.css.map": "/static/css/main.def877c0.chunk.css.map",
-    "static/js/2.87c07560.chunk.js.LICENSE.txt": "/static/js/2.87c07560.chunk.js.LICENSE.txt",
+    "static/js/2.196cd9e2.chunk.js.LICENSE.txt": "/static/js/2.196cd9e2.chunk.js.LICENSE.txt",
     "static/media/arrow-left-3-icon.d48c6bae.svg": "/static/media/arrow-left-3-icon.d48c6bae.svg",
     "static/media/arrow-right-3-icon.d415f77e.svg": "/static/media/arrow-right-3-icon.d415f77e.svg",
     "static/media/arrow-right-icon.c4ea6a92.svg": "/static/media/arrow-right-icon.c4ea6a92.svg",
@@ -19,6 +19,7 @@
     "static/media/buy.5cb49ebd.svg": "/static/media/buy.5cb49ebd.svg",
     "static/media/check.svg": "/static/media/check.a6151888.svg",
     "static/media/chevron-down.svg": "/static/media/chevron-down.c3e123cf.svg",
+    "static/media/cu.6d82c80c.png": "/static/media/cu.6d82c80c.png",
     "static/media/customize-icon.367468c9.svg": "/static/media/customize-icon.367468c9.svg",
     "static/media/dao.06f4542b.png": "/static/media/dao.06f4542b.png",
     "static/media/dollar-sign.svg": "/static/media/dollar-sign.8d9a6f93.svg",
@@ -58,8 +59,8 @@
   "entrypoints": [
     "static/js/runtime-main.8d14773d.js",
     "static/css/2.792fcacf.chunk.css",
-    "static/js/2.87c07560.chunk.js",
+    "static/js/2.196cd9e2.chunk.js",
     "static/css/main.def877c0.chunk.css",
-    "static/js/main.2d7cd5c8.chunk.js"
+    "static/js/main.092b12b9.chunk.js"
   ]
 }
